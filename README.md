@@ -1,25 +1,18 @@
-# Demo
+# [Global: HTML5 website template](http://buckymaler.com/global)
 
-If you want to see the demo, you can reach the demo by [clicking here](https://ardacarofficial.github.io/links-website/ "ardacarofficial.github.io/links-website/") link.
+### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
 
-![Demo 1](https://ardacarofficial.github.io/links-website/img/demo-img.png)
+Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
 
+The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
 
-# Install
+This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
-First, clone the file with the following command. Then apply the [component](https://github.com/ardacarofficial/links-website/wiki/Component-Settings "component") and [design](https://github.com/ardacarofficial/links-website/wiki/Design-Settings "design") settings. You can check the [wiki](https://github.com/ardacarofficial/links-website/wiki "wiki") for help.
+Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
 
-```sh
-git clone https://github.com/ardacarofficial/links-website.git
-```
+[LIVE PREVIEW](http://buckymaler.com/global)
 
-You can then upload your files to any hosting.
+## Misc:
 
-# Note
-
-Contributions are what make the open source community a great place to learn, inspire and create. Your contributions are greatly appreciated.
-
-If you have a suggestion to make this better, please fork the repository and create a pull request. You can also open an issue with the "Development" tag. If you want, you can also share it in the [discussions](https://github.com/ardacarofficial/links-website/discussions/ "discussions") section. Don't forget to give stars to the project!
-
-# License
-Distributed under the MIT license. See [LICENSE](https://github.com/ardacarofficial/links-website/blob/main/LICENSE "LICENSE") file for more information.
+* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
+* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
