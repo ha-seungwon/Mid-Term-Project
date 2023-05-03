@@ -277,6 +277,8 @@ $( document ).ready(function() {
   workSlider();
   transitionLabels();
 
+  
+
 });
 
 
