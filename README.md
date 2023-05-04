@@ -2,12 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fha-seungwon.github.io%2FMid-Term-Project%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Preview
-<p align="center">
-  <video width="640" height="360" controls>
-    <source src="assets/video/preview.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+![preview](https://user-images.githubusercontent.com/74447373/236159206-9ba9dbb7-1728-4fb1-b3b1-fd6908ecbab4.gif)
 
 
 
