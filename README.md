@@ -4,7 +4,7 @@
 ##Preview
 <p align="center"> 
   <kbd>
-    <a href="https://bang1999.github.io/" target="_blank"><img src="">
+    <a href="https://ha-seungwon.github.io/Mid-Term-Project/" target="_blank"><img src="assets/video/preview.mov">
   </a>
   </kbd>
 </p>
